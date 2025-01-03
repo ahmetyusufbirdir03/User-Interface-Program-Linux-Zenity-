@@ -7,7 +7,7 @@ yapılmış olup bir bash script projesidir.
 
 ## Çalışma Şekli ##
 
-<h4> Giriş </h4>
+<h2> Giriş </h2>
 <ul>
 <li>İlk olarak proje başlatıldığında aşağıdaki ekran gelmektedir:
 
@@ -19,7 +19,7 @@ yapılmış olup bir bash script projesidir.
 </ul>
 
 <ul>
-<h4> Yönetici İşlemleri </h4>
+<h2> Yönetici İşlemleri </h2>
 Bu kısımda programda yöneticini yapabileceği işlemleri göreceksiniz.
 
 
