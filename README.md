@@ -15,6 +15,6 @@ yapılmış olup bir bash script projesidir.
 
 <li>Giriş yap seçeneği seçildiğinde ise bir sonraki giriş ekranına geçmektedir.</li>
 
-[1 2](https://github.com/user-attachments/assets/769bf7b1-e975-4214-b51b-5f6c08250d26)
+![1 2](https://github.com/user-attachments/assets/769bf7b1-e975-4214-b51b-5f6c08250d26)
 
 </ul>
