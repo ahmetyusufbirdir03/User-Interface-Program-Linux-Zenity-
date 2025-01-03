@@ -30,11 +30,8 @@ Bu kısımda programda yöneticini yapabileceği işlemleri göreceksiniz.
 ![1 4](https://github.com/user-attachments/assets/ae469ad5-bb8f-4ffd-ac43-dba686f64f7b)
 
 Her işlem ile gelen ekranlar aşağıdaki gibidir: 
-    <ul>
-        <li> 1- ![1 5](https://github.com/user-attachments/assets/21a66f02-d1e4-4a5b-a6b2-bab8b1ce8742)</li>
-        <li>![1 6](https://github.com/user-attachments/assets/402549bf-4597-40d7-a2a4-f47cd6dfcf75)</li>
-        <li>![1 7](https://github.com/user-attachments/assets/b53e5d20-e685-4dbb-8a02-c277c22cd98f)</li>
-    </ul>
+![1 5](https://github.com/user-attachments/assets/21a66f02-d1e4-4a5b-a6b2-bab8b1ce8742) ![1 6](https://github.com/user-attachments/assets/402549bf-4597-40d7-a2a4-f47cd6dfcf75) ![1 7](https://github.com/user-attachments/assets/b53e5d20-e685-4dbb-8a02-c277c22cd98f)
+
 
 </li>
 </ul>
