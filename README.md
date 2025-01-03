@@ -18,11 +18,11 @@ yapılmış olup bir bash script projesidir.
 ![1 2](https://github.com/user-attachments/assets/769bf7b1-e975-4214-b51b-5f6c08250d26) </li>
 </ul>
 
-<ul>
+
 <h2> Yönetici İşlemleri </h2>
 Bu kısımda programda yöneticini yapabileceği işlemleri göreceksiniz.
 
-
+<ul>
     <li>Yönetici girişi seçildikten sonra karşınıza aşağıdaki ekran gelecektir. Doğru veya yanlış giriş yaptığınızda gerekli bilgilendirmeleri de alacaksınız 
 
 ![1 3](https://github.com/user-attachments/assets/91eaab1c-058b-47ae-b9cb-406cc3dfa0e1) ![2 1](https://github.com/user-attachments/assets/8e829ed6-8d71-42cb-a9e0-8fb88420954e) </li>
