@@ -1,3 +1,3 @@
 # User-Interface-Program-Linux-Zenity-
 
-## Amaç
+## Yapılış Amacı ##
