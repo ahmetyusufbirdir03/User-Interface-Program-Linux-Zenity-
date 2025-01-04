@@ -9,7 +9,7 @@ yapılmış olup bir bash script projesidir.
 
 <a href="https://www.youtube.com/watch?v=7u9adS8mX90">Video Link</a>
 
-##
+## Uygulamdan Resimler ##
 <table>
         <thead>
             <tr>
