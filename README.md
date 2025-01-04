@@ -1,4 +1,4 @@
-# User-Interface-Program-Linux-Zenity-
+# User-Interface-Program-Linux-Zenity
 
 ## TANITIM ##
 <p>Bu proje basit bir kullanıcı arayüz programıdır. Örnek olarak üretim, alım-satım vb. işler yapılan bir yerde hem çalışan 
