@@ -23,7 +23,7 @@ yapılmış olup bir bash script projesidir.
                 <td>Yazı 1</td>
             </tr>
             <tr>
-                <td><img src="https://via.placeholder.com/100" alt="Resim 2"></td>
+                <td><img src="https://github.com/user-attachments/assets/bb077fda-b194-41ba-8cef-1277d479f3bd" alt="Resim 2"></td>
                 <td>Yazı 2</td>
             </tr>
             <tr>
