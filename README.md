@@ -12,14 +12,14 @@ yapılmış olup bir bash script projesidir.
 <table>
         <thead>
             <tr>
-                <th>Resim</th>
-                <th>Yazı</th>
+                <th>Resimler</th>
+                <th>Açıklamalar</th>
             </tr>
         </thead>
         <tbody>
             <!-- 10 Satır -->
             <tr>
-                <td><img src="https://via.placeholder.com/100" alt="Resim 1"></td>
+                <td> ![1 1](https://github.com/user-attachments/assets/bb077fda-b194-41ba-8cef-1277d479f3bd)  </td>
                 <td>Yazı 1</td>
             </tr>
             <tr>
