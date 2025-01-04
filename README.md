@@ -13,8 +13,8 @@ yapılmış olup bir bash script projesidir.
 <table>
         <thead>
             <tr>
-                <th>Resimler</th>
                 <th>Açıklamalar</th>
+                <th>Resimler</th>
             </tr>
         </thead>
         <tbody>
