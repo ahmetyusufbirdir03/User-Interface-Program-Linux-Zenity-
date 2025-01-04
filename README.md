@@ -5,9 +5,11 @@
 hem yönetici ilişkilerinin bulunduğu bir düzenleme programıdır. Proje linux işletim sisteminde zenity araçları kullanılarak
 yapılmış olup bir bash script projesidir.  
 
-## Proje Anlatım Videosu ##
+## Proje Anlatım Videosu 
 
 <a href="https://www.youtube.com/watch?v=7u9adS8mX90">Video Link</a>
+
+##
 
 ## Uygulamdan Resimler ##
 <table>
