@@ -10,7 +10,7 @@ yapılmış olup bir bash script projesidir.
 <a href="https://www.youtube.com/watch?v=7u9adS8mX90">Video Link</a>
 
 ##
-## Proje Anlatım Videosu 
+## Github Linki
 
 <a href="https://github.com/ahmetyusufbirdir03/User-Interface-Program-Linux-Zenity-">Github Link</a>
 
